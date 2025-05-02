@@ -1,0 +1,2 @@
+{{-- Text button --}}
+{{ $slot }}: {{ $url }} 
